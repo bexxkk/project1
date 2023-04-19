@@ -11,26 +11,26 @@ const coursesData = [
     id: "01",
     title: "Web Design BootCamp-2022 for Beginners",
     lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    students: 15,
+    rating: 9.1,
     imgUrl: courseImg1,
   },
 
   {
     id: "02",
-    title: "Professional Graphics Design, PhotoShop, Adobe XD, Figma",
-    lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    title: "Professional Graphics Design, PhotoShop",
+    lesson: 13,
+    students: 12,
+    rating: 8.7,
     imgUrl: courseImg2,
   },
 
   {
     id: "03",
     title: "UI/UX BootCamp for Beginners in 2022",
-    lesson: 12,
-    students: 12.5,
-    rating: 5.9,
+    lesson: 15,
+    students: 13.4,
+    rating: 8.9,
     imgUrl: courseImg3,
   },
 ];
@@ -45,9 +45,7 @@ const Courses = () => {
               <div className="course__top__left w-50">
                 <h2>Our Popular Courses</h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae
-                  consequatur libero quod voluptatibus ullam quia quas, vitae
-                  voluptatem recusandae reprehenderit!
+                At Phoenix, we offer a diverse range of high-quality online courses in various subjects to cater to the different learning needs of our community.
                 </p>
               </div>
 

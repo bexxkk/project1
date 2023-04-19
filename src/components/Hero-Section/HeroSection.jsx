@@ -11,18 +11,13 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
+                Education is not a future <br /> life but a present one. <br /> So don't waste it!
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              The mission of Phoenix is to enable everyone <br /> to be a relevant and in-demand specialist <br /> right now. Regardless of age and geography.
               </p>
             </div>
-            <div className="search">
-              <input type="text" placeholder="Search" />
-              <button className="btn">Search</button>
-            </div>
+            
           </Col>
 
           <Col lg="6" md="6">

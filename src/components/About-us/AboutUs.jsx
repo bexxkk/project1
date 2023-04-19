@@ -20,9 +20,7 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+              Welcome to Phoenix, where we provide high-quality, accessible online courses for learners around the world. Our mission is to empower individuals to achieve their personal and professional goals through education.
               </p>
 
               <div className="about__counter">
